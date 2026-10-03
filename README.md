@@ -19,7 +19,7 @@ Atuação com resolução de incidentes, acompanhamento de ambientes, troublesho
 - Inteligência Artificial
 - Automação
 
-## 🚀 Projetos
+## Meus Projetos
 
 Este espaço reúne projetos, estudos e soluções que venho desenvolvendo por curiosidade, prática e interesse em Tecnologia da Informação, explorando também o uso de Inteligência Artificial como apoio à criação e ao desenvolvimento.
 
