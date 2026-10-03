@@ -21,15 +21,44 @@ Atuação com resolução de incidentes, acompanhamento de ambientes, troublesho
 
 ## 🚀 Projetos
 
-Este espaço reúne projetos, estudos e soluções desenvolvidas durante minha formação e evolução profissional em Tecnologia da Informação.
+Este espaço reúne projetos, estudos e soluções que venho desenvolvendo por curiosidade, prática e interesse em Tecnologia da Informação, explorando também o uso de Inteligência Artificial como apoio à criação e ao desenvolvimento.
 
-### Projetos em desenvolvimento
 
-- ✂️ Sistema para criação de cortes de vídeos
-- 🤖 Projetos envolvendo Inteligência Artificial e automação
-- 🌐 Desenvolvimento de aplicações e interfaces web
-- 🖥️ Laboratórios de troubleshooting e infraestrutura
+#### ✂️ Corta.AI — Cortes Automáticos de Vídeo
+Ferramenta para criação automática de cortes de vídeos, com transcrição, legendas, formato vertical e processamento local.
 
+👉 [Ver projeto no GitHub](https://github.com/alinedemoraiscosta/SEU-REPOSITORIO-CORTA-AI)
+
+---
+
+#### ⚖️ Website Profissional — Advocacia
+Website institucional desenvolvido para apresentação profissional de serviços jurídicos, com foco em design responsivo, identidade visual e experiência do usuário.
+
+👉 [Ver projeto no GitHub](https://github.com/alinedemoraiscosta/site-vinicius-leite-advocacia)
+
+🌐 [Acessar site online](https://vinicius-leite-ricardo-adv.netlify.app/)
+
+---
+
+#### 📸 Studio Danila Carolina
+Website institucional desenvolvido para estúdio de fotografia, com foco em fotografia newborn, gestante, infantil e família.
+
+Projeto desenvolvido com identidade visual delicada, navegação responsiva, portfólio de ensaios e integração com canais de contato.
+
+👉 [Ver projeto no GitHub](LINK-DO-REPOSITORIO-STUDIO-DANILA)
+
+🌐 [Acessar site online](https://studiodanilacarolina.netlify.app/)
+
+---
+
+#### 🤖 Inteligência Artificial e Automação
+Projetos envolvendo Inteligência Artificial, automação de tarefas e criação de soluções tecnológicas.
+
+#### 🌐 Aplicações e Interfaces Web
+Desenvolvimento de sites, interfaces responsivas e experiências digitais.
+
+#### 🖥️ Infraestrutura e Troubleshooting
+Laboratórios e estudos voltados para suporte técnico, redes, monitoramento e resolução de incidentes.
 ## 🎓 Formação
 
 **Gestão da Tecnologia da Informação**
