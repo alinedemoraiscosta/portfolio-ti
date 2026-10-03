@@ -25,7 +25,6 @@ Este espaço reúne projetos, estudos e soluções desenvolvidas durante minha f
 
 ### Projetos em desenvolvimento
 
-- 🎬 Ferramenta de edição e geração automática de vídeos
 - ✂️ Sistema para criação de cortes de vídeos
 - 🤖 Projetos envolvendo Inteligência Artificial e automação
 - 🌐 Desenvolvimento de aplicações e interfaces web
