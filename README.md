@@ -4,7 +4,7 @@ Profissional de Tecnologia da Informação com experiência em Suporte Técnico,
 
 Atuação com resolução de incidentes, acompanhamento de ambientes, troubleshooting e suporte a usuários.
 
-## 🛠️ Tecnologias e ferramentas
+## Tecnologias e ferramentas
 
 - Windows 10 e 11
 - Active Directory
@@ -59,12 +59,18 @@ Desenvolvimento de sites, interfaces responsivas e experiências digitais.
 
 #### 🖥️ Infraestrutura e Troubleshooting
 Laboratórios e estudos voltados para suporte técnico, redes, monitoramento e resolução de incidentes.
-## 🎓 Formação
+
+## Formação
 
 **Gestão da Tecnologia da Informação**
 
 Foco em suporte, infraestrutura, redes, monitoramento, segurança e gestão de ambientes tecnológicos.
 
+**Psicologia**
+
+Formação voltada ao comportamento humano, comunicação, relações interpessoais, escuta e compreensão de diferentes contextos.
+
 ---
 
-💡 Sempre buscando transformar problemas técnicos em soluções práticas.
+💡 Tecnologia com olhar humano e foco em soluções.
+
