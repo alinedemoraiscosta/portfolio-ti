@@ -27,7 +27,7 @@ Este espaço reúne projetos, estudos e soluções que venho desenvolvendo por c
 #### ✂️ Corta.AI — Cortes Automáticos de Vídeo
 Ferramenta para criação automática de cortes de vídeos, com transcrição, legendas, formato vertical e processamento local.
 
-👉 [Ver projeto no GitHub](https://github.com/alinedemoraiscosta/SEU-REPOSITORIO-CORTA-AI)
+👉 [Ver projeto no GitHub](https://github.com/alinedemoraiscosta/cortes-automaticos-video)
 
 ---
 
