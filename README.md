@@ -1,8 +1,8 @@
 # 👩‍💻 Aline Morais | Portfólio de TI
 
-Profissional de Tecnologia da Informação com experiência em Suporte Técnico, Service Desk, NOC, Monitoramento e Infraestrutura.
+Profissional de Tecnologia da Informação com experiência em Suporte, Service Desk, NOC, Monitoramento e Infraestrutura. Atuo na resolução de incidentes, acompanhamento de ambientes e suporte a usuários, com foco em troubleshooting, organização e continuidade dos serviços.
 
-Atuação com resolução de incidentes, acompanhamento de ambientes, troubleshooting e suporte a usuários.
+Gosto de entender como as coisas funcionam, investigar problemas e transformar situações técnicas em soluções práticas e claras.
 
 ## Tecnologias e ferramentas
 
